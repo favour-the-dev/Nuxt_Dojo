@@ -2,7 +2,7 @@
     <div class="container p-4 mx-auto">
         <div class="flex justify-between px-4 items-center text-gray-500">
             <div class="">
-                <nuxt-link to="/" class="text-2xl font-bold">Logo</nuxt-link>
+                <nuxt-link to="/" class="text-2xl font-bold text-[#12b488]">Shoppify</nuxt-link>
             </div>
             <div class="flex gap-2 items-center">
                 <nuxt-link to="/">Home</nuxt-link>
